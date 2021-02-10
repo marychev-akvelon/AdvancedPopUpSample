@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\bin\Debug\netstandard2.0\AdvancedPopUpSample.deps.json
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\bin\Debug\netstandard2.0\AdvancedPopUpSample.dll
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\bin\Debug\netstandard2.0\AdvancedPopUpSample.pdb
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\PopUp.xaml.g.cs
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\AdvancedPopUpSample.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\AdvancedPopUpSample.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\AdvancedPopUpSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\AdvancedPopUpSample.dll
+C:\Users\Administrator\source\repos\AdvancedPopUpSample\AdvancedPopUpSample\obj\Debug\netstandard2.0\AdvancedPopUpSample.pdb

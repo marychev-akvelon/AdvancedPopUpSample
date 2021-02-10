@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "11V26T0MmjtaUZ5gA/2UDl+1tiHPp20oFV4TLDXhy0bttGuqKRoi4HznxuYUdOmFEt+ils2sSR5ZSKP6AOwekA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AdvancedPopUpSample\\AdvancedPopUpSample.UITest\\AdvancedPopUpSample.UITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\nunit\\3.9.0\\nunit.3.9.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xamarin.uitest\\3.0.7\\xamarin.uitest.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
